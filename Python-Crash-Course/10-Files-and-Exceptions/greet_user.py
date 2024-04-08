@@ -1,5 +1,6 @@
 import json
 
+
 def greet_user():
     """Greet the user by name."""
     filename = 'username.json'
