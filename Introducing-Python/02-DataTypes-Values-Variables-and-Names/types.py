@@ -28,3 +28,5 @@ print(type(bytearray(b'ab\x00')))
 print(type({3, 5, 7}))
 print(type(frozenset(['Elsa', 'Otto'])))
 print(type({'game': 'bingo', 'dog': 'dingo', 'drummer': 'Ringo'}))
+
+print(isinstance(7, int))
